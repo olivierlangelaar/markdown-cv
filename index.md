@@ -1,91 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Olivier Langelaar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Olivier Langelaar
+Front-end developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="o.langelaar@gmail.com">o.langelaar@gmail.com</a>| <a href="https://github.com/olivierlangelaar">GitHub</a>| <a href="https://stackoverflow.com/users/2041217/olivier-langelaar">StackOverflow</a>| <a href="https://www.linkedin.com/in/olivier-langelaar-9618945a/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### Senior developer, <a href="https://crowdaboutnow.nl">CrowdAboutNow</a> crowdfunding platform
+`Utrecht  — July 2015 - current`
 
-### Specialized in
+Senior developer at a dutch crowdfunding platform. Working here has taught me how to work in larger teams, how to work agile, perfecting our build chain, building and maintaining our private cloud. Containerizing the application. Optimizing application performance speed. Automating build processes. 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Frontend development (Polymer, lit-element, React, PWA, Node, ES6, Gulp, CSS, Stylus, WCT, Mocha, Chai)
+- Backend development (PHP, MySQL, Firebase, Node)
+- DevOps (Linux, Kubernetes, Docker, Nginx, Apache)
 
+### Co-founder, PickMedia
+`Utrecht — Januari 2012 - July 2015`
 
-### Research interests
+This was my own company I ran with a partner. We made websites for small creative businesses. I learned a lot here in a short time having had all the technical responsibilities
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Server maintenance (Linux).
+- Backend (Concrete5, WP, CodeIgniter).
+- JavaScript (vanilla, jQuery, Node.js).
+- Databases (MySQL, MongoDB).
+- Frontend (CSS3, LESS, SASS, JS, HTML5).
 
+### Co-founder, PickMedia
+`Breukelen  — Januari 2005 - Juli 2005`
 
-## Education
+Internship at helpdesk
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Helpdesk
+- Citrix server maintenance
 
 
